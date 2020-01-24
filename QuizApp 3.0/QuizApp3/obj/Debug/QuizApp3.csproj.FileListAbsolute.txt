@@ -1,0 +1,12 @@
+D:\C#\QuizApp3\QuizApp3\bin\Debug\QuizApp3.exe.config
+D:\C#\QuizApp3\QuizApp3\bin\Debug\QuizApp3.exe
+D:\C#\QuizApp3\QuizApp3\bin\Debug\QuizApp3.pdb
+D:\C#\QuizApp3\QuizApp3\obj\Debug\QuizApp3.csprojAssemblyReference.cache
+D:\C#\QuizApp3\QuizApp3\obj\Debug\QuizApp3.LaunchForm.resources
+D:\C#\QuizApp3\QuizApp3\obj\Debug\QuizApp3.Properties.Resources.resources
+D:\C#\QuizApp3\QuizApp3\obj\Debug\QuizApp3.csproj.GenerateResource.cache
+D:\C#\QuizApp3\QuizApp3\obj\Debug\QuizApp3.csproj.CoreCompileInputs.cache
+D:\C#\QuizApp3\QuizApp3\obj\Debug\QuizApp3.exe
+D:\C#\QuizApp3\QuizApp3\obj\Debug\QuizApp3.pdb
+D:\C#\QuizApp3\QuizApp3\obj\Debug\QuizApp3.QuizEntryForm.resources
+D:\C#\QuizApp3\QuizApp3\obj\Debug\QuizApp3.QuizForm.resources
